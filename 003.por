@@ -10,6 +10,6 @@ programa {
     escreva ("Digite seu nome: ")
     leia(nome)
 
-    escreva("seu nome é" , nome)
+    escreva("seu nome é " , nome)
   }
 }
